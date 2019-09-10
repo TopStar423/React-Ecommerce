@@ -1,6 +1,6 @@
 # Ecommerce Progressive Web Apps
 
-CZR is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead. (https://github.com/maksimgold208/React-Ecommerce-CZR)
+CZR is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead.
 
 Built with:
 * Node.js v8.9
@@ -22,13 +22,6 @@ Single-Page Application with React server-side rendering.
 [![Cezerin Store](https://cezerin.com/assets/images/cezerin-mobile-product.png)](https://store.cezerin.com)
 
 [![Cezerin Store](https://cezerin.com/assets/images/cezerin-mobile-order-summary.png)](https://store.cezerin.com)
-
-## Installation
-
-- [with GitHub](https://github.com/maksimgold208/React-Ecommerce-CZR/blob/master/docs/getting-started.md)
-- [with Docker](https://github.com/maksimgold208/React-Ecommerce-CZR/docs/getting-started-docker.md)
-- [How to deploy a Cezerin2 on Ubuntu 16.04](https://github.com/maksimgold208/React-Ecommerce-CZR/blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-16-04.md)
-- [How to deploy a Cezerin2 on Ubuntu 18.04.1 (from GitHub)](https://github.com/maksimgold208/React-Ecommerce-CZR//blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-18-04-1-github.md)
 
 ### Requirements
 * Node.js >= 8
